@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "this is react by raju ",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranjanrajukumar/NamasteReact.git"
+  },
+  "keywords": [],
+  "author": "raju ranjan kushwaha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ranjanrajukumar/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/ranjanrajukumar/NamasteReact#readme",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "browserlist": [
+    "last 2  version"
+    
+  ]
+}
